@@ -1,7 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:grass_block",
-    "#minecraft:base_stone_nether"
-  ]
-}
