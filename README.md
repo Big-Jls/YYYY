@@ -13,14 +13,25 @@
 
 为了节省格子，合理运用空间，你将不能再使用背包栏！
 
-为了亲近羊羊，我们每5min会在距离你15格左右各25%刷新一只羊
+为了亲近羊羊，我们每5min会在距离你15格左右各25%刷新一只羊.
+
+为了体验三消，你的物品单个数量不能为33，否则会被清理背包！！
 
 刷新概率大概为:
-(闪电苦力怕21%,疣猪兽20%,生气的狼13%,恼鬼10%,劫掠兽10%,女巫10%,生气的铁傀儡6%,凋灵5%,彩蛋羊3%,彩蛋箱2%)
+(疣猪兽17%,闪电苦力怕17%,生气的狼14%,恼鬼10%,劫掠兽10%,女巫10%,生气的铁傀儡7%,雪傀儡骑着北极熊7%,凋灵3%,彩蛋箱2%,彩蛋羊村民2%,尺寸为20的史莱姆1%)
 
 
 ### 使用方法
-1. 下载对应版本的数据包放置.minecraft/saves/<任意存档>/datapacks下 **(不用解压)** 
-2. 在游戏里面输入/reload重新加载
-3. 输入/trigger start开始本数据包
-4. (选)推荐使用材质包 **[Sheepified Remastered](https://www.curseforge.com/minecraft/texture-packs/sheepified-remastered/)** 来配合本数据包生成全是羊的世界
+ **一、在已有的存档下安装** 
+1. 下载对应版本的数据包放置.minecraft/saves/<存档名称>/datapacks下 (不用解压) 
+2. 在游戏里面输入/reload重新加载。
+3. 输入/trigger start开始本数据包。
+4. (选)推荐使用材质包 [Sheepified Remastered](https://www.curseforge.com/minecraft/texture-packs/sheepified-remastered/) (仅有1.16.5但向上兼容)来配合本数据包生成全是羊的世界。
+
+ **二、新建存档安装** 
+1. 下载对应版本的数据包。
+2. 在新建世界的时候点击数据包选项，将下载好的数据包添加进去。
+3. 同意实验性世界并载入。
+4. 在游戏里面输入/reload重新加载
+5. 输入/trigger start开始本数据包。
+6. (选)推荐使用材质包 [Sheepified Remastered](https://www.curseforge.com/minecraft/texture-packs/sheepified-remastered/) (仅有1.16.5但向上兼容)来配合本数据包生成全是羊的世界。
