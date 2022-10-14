@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:chest"
+        },
+        "title": {
+            "text": "战羊",
+            "color": "white",
+            "bold": true
+        },
+        "description": "打开仅有2%的彩蛋箱",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "minecraft:adventure/kill_a_mob",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:player_generates_container_loot",
+            "conditions": {
+                "loot_table": "y:chests/y_chest"
+            }
+        }
+    }
+}
