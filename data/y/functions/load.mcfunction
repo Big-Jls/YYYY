@@ -7,8 +7,7 @@ scoreboard objectives add sheep1 dummy
 scoreboard players set @a b 1
 scoreboard players set max r 250
 scoreboard players set max sheep 5
-scoreboard players set max sheep 0
+scoreboard players set max sheep1 0
 forceload add 0 0
 execute in the_nether run forceload add 0 0
 gamerule forgiveDeadPlayers false
-gamerule sendCommandFeedback false
